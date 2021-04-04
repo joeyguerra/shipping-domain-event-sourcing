@@ -1,0 +1,17 @@
+{
+  "name": "eventstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --parallel"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
